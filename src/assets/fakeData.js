@@ -10,7 +10,7 @@ export const fakeData = [
 			colorBody: "#FEE5FD",
 			colorText: "#18181A",
 		}),
-		position: JSON.stringify({ x: 505, y: 10 }),
+		position: JSON.stringify({ x: 505, y: 200 }),
 	},
 	{
 		$id: 2,
@@ -23,7 +23,7 @@ export const fakeData = [
 			colorBody: "#A6DCE9",
 			colorText: "#18181A",
 		}),
-		position: JSON.stringify({ x: 305, y: 110 }),
+		position: JSON.stringify({ x: 105, y: 110 }),
 	},
 	{
 		$id: 3,
@@ -36,6 +36,6 @@ export const fakeData = [
 			colorBody: "#FFF5DF",
 			colorText: "#18181A",
 		}),
-		position: JSON.stringify({ x: 605, y: 500 }),
+		position: JSON.stringify({ x: 900, y: 150 }),
 	},
 ];
